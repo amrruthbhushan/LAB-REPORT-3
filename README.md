@@ -1,9 +1,8 @@
 # Lab 3: REST API, Query Parameters, Validation & Debugging
 
 > **Course:** Backend Development Fundamentals  
-> **Academic Year:** Year II, Term II  
-> **College:** NIAT Aurora  
-> **Faculty:** Joel Prashanth D  
+> **Academic Year:** Year II, Term II  106
+> **College:** NIAT Aurora    
 > **Student Name:** Amrruth Bhushan  
 > **Branch:** AI & Data Engineering  
 
